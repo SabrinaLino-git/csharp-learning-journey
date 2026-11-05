@@ -1,0 +1,1 @@
+In this game, the bands Metallica and Megadeth will face off using random moves.
